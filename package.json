@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page using Async functions with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiompapagayo/Async-Landing-Page.git"
+  },
+  "keywords": [
+    "Async",
+    "JavaScript"
+  ],
+  "author": "Sergio M Papagayo <sergio.m.papagayo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiompapagayo/Async-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/sergiompapagayo/Async-Landing-Page#readme"
+}
