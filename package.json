@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sergiompapagayo/Async-Landing-Page/issues"
   },
-  "homepage": "https://github.com/sergiompapagayo/Async-Landing-Page#readme"
+  "homepage": "https://github.com/sergiompapagayo/Async-Landing-Page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
